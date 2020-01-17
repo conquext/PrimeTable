@@ -1,5 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Want to Run Scripts Locally?
+
+`run:`
+git clone https://github.com/conquext/PrimeTable.git
+cd PrimeTable
+npm install
+
 ## Available Scripts
 
 In the project directory, you can run:
