@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 `run:`
 git clone https://github.com/conquext/PrimeTable.git &&
 cd PrimeTable &&
-npm install
+yarn install
 
 ## Available Scripts
 
