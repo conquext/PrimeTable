@@ -3,8 +3,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Want to Run Scripts Locally?
 
 `run:`
-git clone https://github.com/conquext/PrimeTable.git
-cd PrimeTable
+git clone https://github.com/conquext/PrimeTable.git &&
+cd PrimeTable &&
 npm install
 
 ## Available Scripts
